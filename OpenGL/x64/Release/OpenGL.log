@@ -1,0 +1,9 @@
+﻿  dummy.cpp
+  glm.cpp
+  glm.cppm
+/glm/detail/dummy.cpp(1,1): error C1083: Cannot open source file: 'glm\detail\dummy.cpp': No such file or directory
+  (compiling source file '/glm/detail/dummy.cpp')
+  
+C:\Users\Bartol\Desktop\OpenGL\OpenGL\OpenGL\glm\detail\glm.cpp(7,10): error C1083: Cannot open include file: 'glm/gtx/dual_quaternion.hpp': No such file or directory
+C:\Users\Bartol\Desktop\OpenGL\OpenGL\OpenGL\glm\glm.cppm(1,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Bartol\Desktop\OpenGL\OpenGL\OpenGL\glm\glm.cppm(7,10): error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory

@@ -1,0 +1,14 @@
+﻿  Game.cpp
+C:\Users\Bartol\Desktop\OpenGL\OpenGL\OpenGL\Game.cpp(154,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Bartol\Desktop\OpenGL\OpenGL\OpenGL\Game.cpp(180,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  GameLevel.cpp
+C:\Users\Bartol\Desktop\OpenGL\OpenGL\OpenGL\GameLevel.cpp(71,25): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Bartol\Desktop\OpenGL\OpenGL\OpenGL\GameLevel.cpp(72,24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  ResourceManager.cpp
+  main.cpp
+C:\Users\Bartol\Desktop\OpenGL\OpenGL\OpenGL\main.cpp(73,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  stb_image.cpp
+  Generating Code...
+  OpenGL.vcxproj -> C:\Users\Bartol\Desktop\OpenGL\OpenGL\x64\Debug\OpenGL.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
